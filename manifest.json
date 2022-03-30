@@ -2,10 +2,10 @@
   "name": "Random Meadow",
   "short_name": "Random Meadow",
   "icons": [{
-      "src": "images/sheaf-of-rice.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    }],
+    "src": "images/sheaf-of-rice.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
